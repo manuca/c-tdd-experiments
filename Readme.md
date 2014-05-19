@@ -5,5 +5,4 @@ Run `make cli_demo` to build a demo for the command line (depends on ncurses).
 
 ### Pending:
 
-- Implement demo for CLI
 - Implement demo for embeding in LPC1769 (or similar) ARM Cortex M3 Microcontroller.
